@@ -8,19 +8,19 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: John Doe # Escribe tu nombre y apellido (1 nombre y 1 apellido)
+  name: Ricardo Ramos # Escribe tu nombre y apellido (1 nombre y 1 apellido)
   tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: john@gmail.com
-  phone: 123 123 1234
+  email: alexrp782@gmail.com
+  phone: 3317804484
   website: # No agregar http://
-  linkedin: john # solo tu nombre de usuario de linkedin o dejar en blanco
-  github: john # solo tu nombre de usuario en github o dejar en blanco
-  gitlab: john # solo tu nombre de usuario en gitlab o dejar en blanco
-  bitbucket: john # solo tu nombre de usuario en bitbucket o dejar en blanco
-  twitter: '@john' # solo tu nombre de usuario en twitter o dejar en blanco
+  linkedin: Ricardo Ramos # solo tu nombre de usuario de linkedin o dejar en blanco
+  github: RicardoRam781 # solo tu nombre de usuario en github o dejar en blanco
+  gitlab: # solo tu nombre de usuario en gitlab o dejar en blanco
+  bitbucket: # solo tu nombre de usuario en bitbucket o dejar en blanco
+  twitter: '' # solo tu nombre de usuario en twitter o dejar en blanco
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -35,45 +35,39 @@ sidebar:
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
-    - item: Growth Mindset
+    - item: Leadership
       link: # dejar en blanco
 
     - item: Effective communication
       link: # dejar en blanco
 
-    - item: Good Team Player
+    - item: Good Teammate 
       link: # dejar en blanco
 
-    - item: Positive Attitude
+    - item: Problem solver
       link: # dejar en blanco
 
-    - item: Time and Task Management
+    - item: Autodidact
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    As a Computer Systems Engineering student with a deep passion for technology and programming, I have a keen interest in web, backend and frontend programming. As an autodidact programmer, I have a love for learning and consistently seek to improve my skills by staying up to date with industry best practices and logical thinking. I am proactive, diligent, and thrive in collaborative environments, where I can share my knowledge and learn from others. My passion for technology stems from my belief that it has the potential to make us better individuals, coworkers, and productive members of society. As a future Senior Developer, I am looking for an innovative company here in Mexico, where I can leverage my creativity and problem-solving skills to make an impact in people's lives.
+    As a software engineering student, I am extensively familiar with the industry, and I enjoy continuously learning new things. I have 2 years of experience working with React, Node.js, HTML5, CSS, and SQL. Recently, I have delved into mobile development, leveraging my prior knowledge of React effectively. I'm looking for new challenges and professional development. 
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
   - degree: Bachelor Degree
     university: Universidad de Colima
-    time: 2018 - 2022
+    time: 2022 - 2026
     details: |
       Facultad de Telemática - Software Engineer.
-
-  - degree: Python Certification
-    university: Udemy
-    time: 2022
-    details: |
-      300 hrs course certification.
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: React Native Developer
-    time: Feb 2022 - Present
+    time: Dec 2023 - May 2024
     company: Bright Coders, Mexico
     details: |
       Develop native applications with technologies such as Javascript and React Native, 
@@ -81,19 +75,19 @@ experiences:
       and remote repositories. In addition to developing fundamental skills in software development 
       such as teamwork and effective communication using an agile methodology.
 
-  - role: Project Name
-    time: Sep 2021 - Jan 2022
-    company: BrightCoders
+  - role: E-commerce Development
+    time: Nov 2022 - Dec 2023
+    company: Freelance 
     details: |
-      My role was to design the views with Figma and use React Native for the development of o mobile app designed for... I worked remotely with other 3 team members.
+      My role was build an entire web aplication for a client. I made the Db arquitecture, backend apis and user interfaces in frontend. I used third party apis like stripe and aws s3 to make the app more complete
 
-  - role: Full Stack Developer
-    time: Feb 2021 - Aug 2021
-    company: Company Name
+  - role: Prototype developer
+    time: Aug 2023 - Dec 2023
+    company: Schoolar project
     details: |
-      My role was to create the layout for the website in a responsive way, 
-      create the database logic with SQL, develop the frontend part with jQuery
-      and the backend with PHP and its Codeigniter framework.
+      My role was was leading a team to make a prototype for a mobile aplication. I make interviews with stakeholders to get the app requirments, and make the 
+      the necessary technical tasks, also actively participate in the app development.
+      
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -106,9 +100,9 @@ skills:
 
   toolset:
     - name: Javascript
-      level: 20%
-      level-name: Novice
-      time: 6 months
+      level: 60%
+      level-name: Competent
+      time: 2 years 
 
     - name: React
       level: 40%
@@ -116,9 +110,9 @@ skills:
       time: 1 year
 
     - name: React Native
-      level: 80%
-      level-name: Proficient
-      time: 2+ years
+      level: 20%
+      level-name: Advanced beginner
+      time: 6 months 
 
 # NO MODIFICAR
 footer: >
